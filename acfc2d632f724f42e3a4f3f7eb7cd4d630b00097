@@ -1,0 +1,23 @@
+internal/mcp/server.go
+  s_317bf86e0d9b69::t_4fc40d48efd452 149-153
+internal/mcp/tools_multi.go
+  s_317bf86e0d9b69::t_f339d3d2d108e0 9,15,18-23,110-118,120-125,128-149,151-161,164-190
+internal/mcp/tools_multi_track_deadline_test.go
+  s_317bf86e0d9b69::t_cdc25bbc537ea2 1-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "acfc2d632f724f42e3a4f3f7eb7cd4d630b00097",
+  "prompts": {},
+  "sessions": {
+    "s_317bf86e0d9b69": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "276a1797-bcf2-4a67-a377-1fef87e51e58",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
