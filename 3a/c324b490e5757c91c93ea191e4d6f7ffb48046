@@ -1,0 +1,14 @@
+internal/mcp/tools_coding.go
+  h_12c251fe27a2ce 140-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "3ac324b490e5757c91c93ea191e4d6f7ffb48046",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
