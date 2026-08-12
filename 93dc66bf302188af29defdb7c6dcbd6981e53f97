@@ -1,0 +1,28 @@
+internal/semantic/goanalysis/provider.go
+  s_698132e10fec52::t_aa5765cbe60591 351
+  s_698132e10fec52::t_38c8f05f1fe950 408-409,411-413
+  s_698132e10fec52::t_6380b48d3b10a4 941-946
+  s_698132e10fec52::t_163df2b318983d 373
+  s_698132e10fec52::t_7cf88fad14320c 346
+  s_698132e10fec52::t_0cd2ad9b1cc203 310-311,319-332
+internal/semantic/goanalysis/module_gate.go
+  s_698132e10fec52::t_be79852cc8e11c 36-53,55,61,67,71-92
+internal/semantic/goanalysis/module_gate_test.go
+  s_698132e10fec52::t_b9db784e42c2bf 156-257
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "93dc66bf302188af29defdb7c6dcbd6981e53f97",
+  "prompts": {},
+  "sessions": {
+    "s_698132e10fec52": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab150598-8ba3-493f-b185-a4c0a386996a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

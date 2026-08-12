@@ -1,0 +1,33 @@
+internal/indexer/file_delta_pathkey_test.go
+  s_dd2ecee5af38c9::t_85f8bab17c7228 6,21-25,31-32,34-37,52-53,55,62,64-70,72-75,77-78,81,84-86
+  s_dd2ecee5af38c9::t_4dbfce51290dd6 1-5,7-14,16,20,39-49,56,63,71,76,79-80,82-83,87-89
+  s_dd2ecee5af38c9::t_57c314d03cece0 15,17-19,26-30,33,38,54
+  s_dd2ecee5af38c9::t_9a7591883af309 50-51
+  s_dd2ecee5af38c9::t_80e3cbdd646ff0 57-61
+internal/indexer/file_delta.go
+  s_d72f417fe3ae0d::t_1630d17c2a8c80 107-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "8d2be8331b0fa02a1a7c14b6a17b701b68a18042",
+  "prompts": {},
+  "sessions": {
+    "s_d72f417fe3ae0d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc1c3-56ae-71a0-baf7-2c0d8f81ca7c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    },
+    "s_dd2ecee5af38c9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "11630b93-0a07-456a-8bc3-e50ab98b1b3d",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
