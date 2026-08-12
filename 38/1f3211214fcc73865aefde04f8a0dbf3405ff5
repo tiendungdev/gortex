@@ -1,0 +1,29 @@
+internal/mcp/batch_transaction.go
+  s_fe29cedd2949e4::t_e54c259abfaac2 209,241-242,768
+internal/mcp/tools_enhancements.go
+  s_4a502e20cd7593::t_6781823f4d10bc 3689-3691,3705-3707,3709,3760,3766,3772-3843,3846-3847,3862-3864,3867-3883,3887-3901
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "381f3211214fcc73865aefde04f8a0dbf3405ff5",
+  "prompts": {},
+  "sessions": {
+    "s_4a502e20cd7593": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd55e-6f7d-7842-afbe-5687aaf696bc",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    },
+    "s_fe29cedd2949e4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff35d-4349-7f72-adc9-72f960b09a19",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
