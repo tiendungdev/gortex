@@ -1,0 +1,26 @@
+cmd/gortex/testdata/agent-render/claude-code.txt
+  h_12c251fe27a2ce 33,38-39
+docs/agents.md
+  h_12c251fe27a2ce 12-14,25,198-203
+docs/skills.md
+  h_12c251fe27a2ce 18,63
+internal/agents/claudecode/adapter.go
+  h_12c251fe27a2ce 80-82,88-91,160-172,175,181-188,567-619
+internal/agents/claudecode/adapter_test.go
+  h_12c251fe27a2ce 57-58,84,120-125,127-131
+internal/agents/claudecode/community_routing_test.go
+  h_12c251fe27a2ce 1-131
+internal/skills/generator.go
+  h_12c251fe27a2ce 91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "bcda63de9118ec45e94030f37f726d68969da3d8",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
