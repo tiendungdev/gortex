@@ -1,0 +1,14 @@
+internal/mcp/batch_transaction.go
+  h_12c251fe27a2ce 12,360-427,463-465,682,732-740
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8e8bf2cd938971d4329079b27c6940fd58449bc1",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
