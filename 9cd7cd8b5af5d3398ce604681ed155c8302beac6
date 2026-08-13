@@ -1,0 +1,21 @@
+internal/graph/store_sqlite/sqlite_connections.go
+  s_4d40fc949cbc6a::t_8b7c4995aa4bdd 89-98
+internal/graph/store_sqlite/sqlite_connections_windows_test.go
+  s_4d40fc949cbc6a::t_99ebb9013a39a9 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "9cd7cd8b5af5d3398ce604681ed155c8302beac6",
+  "prompts": {},
+  "sessions": {
+    "s_4d40fc949cbc6a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9a4f375d-159a-4a72-b3cf-fd4f1fccd401",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+internal/mcp/batch_file_lifecycle_security_test.go
+  h_12c251fe27a2ce 74-203
+internal/mcp/batch_transaction.go
+  h_12c251fe27a2ce 40-41
+internal/mcp/batch_transaction_journal.go
+  h_12c251fe27a2ce 164,166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "4ed74519d65127066251f0c2480c74768f80321e",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+docs/mcp.md
+  h_12c251fe27a2ce 360
+internal/mcp/batch_file_lifecycle_test.go
+  h_12c251fe27a2ce 229-270
+internal/mcp/batch_transaction.go
+  h_12c251fe27a2ce 448-453,733-735,738-740,742-744,749,756-765
+internal/mcp/batch_transaction_test.go
+  h_12c251fe27a2ce 76-116
+internal/mcp/tools_enhancements.go
+  h_12c251fe27a2ce 298,300
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "db8ad1b8fcbc9a5b42cb03248a8dab1228bc3567",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

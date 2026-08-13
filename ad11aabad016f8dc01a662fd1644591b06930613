@@ -1,0 +1,16 @@
+internal/mcp/facade_container_validation_test.go
+  h_12c251fe27a2ce 10-11,15-16,21-30,33-34,37-38,41-42,46-50,53-56,61-62,65-70,72-99,101-104,106-111,117-124
+internal/mcp/facade_tools.go
+  h_12c251fe27a2ce 1398-1399,1440-1451,1454-1455,1457-1458,1461,1464-1470,1473,1487-1492,1494-1502,1505-1507
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ad11aabad016f8dc01a662fd1644591b06930613",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
