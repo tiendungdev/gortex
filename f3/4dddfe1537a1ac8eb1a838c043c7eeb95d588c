@@ -1,0 +1,140 @@
+internal/mcp/tools_enhancements.go
+  s_fe29cedd2949e4::t_b5c46201b9c30d 3938-3941
+  s_fe29cedd2949e4::t_1fa66ec40806a8 3686-3691,3710-3712,3714,3766,3772,3805-3810,3814-3833,3859-3864,3888-3893,3896-3897,3912-3914,3917-3933,3937,3942-3951
+  s_fe29cedd2949e4::t_9ac36f7ec978a1 3799-3804,3811-3813,3834-3858,3865-3887
+internal/mcp/batch_edit_validation_test.go
+  s_fe29cedd2949e4::t_4c821f4710b831 1-43,45-53,55-62,64-183
+  s_fe29cedd2949e4::t_060f0117630c7a 44,54,63
+internal/mcp/batch_transaction_test.go
+  s_fe29cedd2949e4::t_c59a0c562c15e2 487
+internal/mcp/batch_transaction.go
+  s_fe29cedd2949e4::t_c7571dad965aff 262,294-295,929
+SECURITY.md
+  s_fe29cedd2949e4::t_0a8a1eab2af736 60
+cmd/gortex/daemon.go
+  s_fe29cedd2949e4::t_3a5f72046821b4 70-72,1320-1331,1354-1405
+cmd/gortex/daemon_controller.go
+  s_fe29cedd2949e4::t_3f94daa230025a 1241-1242,1256
+cmd/gortex/daemon_mcp.go
+  s_fe29cedd2949e4::t_6c4e92e509b342 159-164
+cmd/gortex/daemon_status_render_test.go
+  s_fe29cedd2949e4::t_b87dd5fc2523de 7,177-244
+cmd/gortex/ensure_daemon.go
+  s_fe29cedd2949e4::t_f70e74b618bc3b 50-51,67-68
+cmd/gortex/init_global.go
+  s_fe29cedd2949e4::t_86525c54545751 46-49
+cmd/gortex/init_global_test.go
+  s_fe29cedd2949e4::t_22d1709923ea42 1-29
+cmd/gortex/main.go
+  s_fe29cedd2949e4::t_1afe6ac5763bcf 12
+cmd/gortex/mcp.go
+  s_fe29cedd2949e4::t_c0bcce7dcb9dfe 16,76,87-90,92-94,96,214-230,234-241,246-249,258-290,309
+cmd/gortex/mcp_index_test.go
+  s_fe29cedd2949e4::t_e58c8239416970 16-20,134-137
+cmd/gortex/mcp_legacy_flags_test.go
+  s_fe29cedd2949e4::t_e2a2ec79f77e69 61-64,88,94
+cmd/gortex/mcp_nodaemon_inert_test.go
+  s_fe29cedd2949e4::t_0d88841bd15b97 6-8
+cmd/gortex/mcp_test.go
+  s_fe29cedd2949e4::t_2012c4ed139dfe 4-5,12,15,17,147-280
+cmd/gortex/proxy.go
+  s_fe29cedd2949e4::t_0e507f673c7f67 91-92,114,116,183,188-190,195-197,202,211
+cmd/gortex/proxy_dial_test.go
+  s_fe29cedd2949e4::t_1a1de1af543b62 114,116,118,124-128
+cmd/gortex/testdata/agent-render/claude-code.txt
+  s_fe29cedd2949e4::t_f7a541d28354b5 33,38-39
+docs/agents.md
+  s_fe29cedd2949e4::t_8458baee6bb6df 12-14,25,198-203
+docs/architecture.md
+  s_fe29cedd2949e4::t_bf85f1e2eccb80 56
+docs/cli.md
+  s_fe29cedd2949e4::t_0f9aff240cba28 8,90-91,93-95
+docs/features.md
+  s_fe29cedd2949e4::t_029abaa954a639 120
+docs/lsp.md
+  s_fe29cedd2949e4::t_ffe8b32fb6228e 153-157
+docs/mcp.md
+  s_fe29cedd2949e4::t_b87cde7b2f4881 5,30-44,270
+docs/multi-repo.md
+  s_fe29cedd2949e4::t_27a287dc52c1d6 31,42-44,69-70
+docs/onboarding.md
+  s_fe29cedd2949e4::t_5e9db2d0a4ef89 42,86,88,90-92,95,98,101,243-244,255
+docs/server.md
+  s_fe29cedd2949e4::t_2e77111bac6bbe 21-22
+docs/skills.md
+  s_fe29cedd2949e4::t_53461773ed5680 18,63
+internal/agents/claudecode/adapter.go
+  s_fe29cedd2949e4::t_11a84a82d96db2 80-82,88-91,160-172,175,181-188,567-619
+internal/agents/claudecode/adapter_test.go
+  s_fe29cedd2949e4::t_4c8824ebd94365 57-58,84,120-125,127-131
+internal/agents/claudecode/community_routing_test.go
+  s_fe29cedd2949e4::t_a15e1ba8565aef 1-131
+internal/agents/mcp.go
+  s_fe29cedd2949e4::t_6dc6f8e937f24f 290-291,311-312
+internal/config/global.go
+  s_fe29cedd2949e4::t_7c43a4d26912d5 92-96,112-121,184
+internal/config/global_mcp_test.go
+  s_fe29cedd2949e4::t_97718ff3214058 1-51
+internal/daemon/client.go
+  s_fe29cedd2949e4::t_93b281c7362ef2 84,207-208,228-232,265-291,296,301
+internal/daemon/client_test.go
+  s_fe29cedd2949e4::t_82ac144b22c356 6-7,31-48
+internal/daemon/proto.go
+  s_fe29cedd2949e4::t_bcdf91bfc71d7b 380-388,403-407
+internal/daemon/stop_intent.go
+  s_fe29cedd2949e4::t_ec6cbdb81fab90 20-22
+internal/graph/edge.go
+  s_fe29cedd2949e4::t_40591a96cebc93 1169-1178
+internal/indexer/extractor_version.go
+  s_fe29cedd2949e4::t_d8ce4e53682f70 35,37
+internal/mcp/promote_call_gate_test.go
+  s_fe29cedd2949e4::t_d6c33c02f12053 1-123
+internal/mcp/session_ctx.go
+  s_fe29cedd2949e4::t_f681c5ec8a9362 81-118
+internal/mcp/tools_mode.go
+  s_fe29cedd2949e4::t_c2102b75ab2551 42-53
+internal/parser/languages/csharp.go
+  s_fe29cedd2949e4::t_e1b144e4689a93 673-681
+internal/parser/languages/golang.go
+  s_fe29cedd2949e4::t_61d6757701968d 68,73-74,83,88-89,246-252,489-517,1037,1055,1105,3035-3052
+internal/resolver/csharp_applicability.go
+  s_fe29cedd2949e4::t_9855330132e163 4-5,147-155,161-163
+internal/resolver/csharp_static_form_qualified_test.go
+  s_fe29cedd2949e4::t_61790523cc2412 1-51
+internal/resolver/go_generic_call_ambiguity_test.go
+  s_fe29cedd2949e4::t_c428ac13da5d42 89-139
+internal/resolver/repo_language_lookup.go
+  s_fe29cedd2949e4::t_d0970dc1023a00 305,309-353
+internal/search/rerank/tokens.go
+  s_fe29cedd2949e4::t_adada1347699f1 6,49-51
+internal/search/rerank/tokens_test.go
+  s_fe29cedd2949e4::t_edc70a64fbe13e 1-33
+internal/semantic/lsp/resolver_helper.go
+  s_fe29cedd2949e4::t_c56684e1065731 25-55,59-62,71-82,85-86,105-110,196-215,218-219,221-223,233-238,240,296-299,352-399,424-425,443-444,568-577,580,585-587
+internal/semantic/lsp/resolver_helper_test.go
+  s_fe29cedd2949e4::t_1cb4a4f82a9e5d 1-272
+internal/semantic/lsp/resolver_registry_test.go
+  s_fe29cedd2949e4::t_7d1820ada1d7ee 135-141,158
+internal/semantic/lsp/router.go
+  s_fe29cedd2949e4::t_99f98dcd54e0e6 888-895,908
+internal/semantic/lsp/router_test.go
+  s_fe29cedd2949e4::t_05eb6df2b9c5a4 569-611
+internal/skills/generator.go
+  s_fe29cedd2949e4::t_fcdef7c3a66145 91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f34dddfe1537a1ac8eb1a838c043c7eeb95d588c",
+  "prompts": {},
+  "sessions": {
+    "s_fe29cedd2949e4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff35d-4349-7f72-adc9-72f960b09a19",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
