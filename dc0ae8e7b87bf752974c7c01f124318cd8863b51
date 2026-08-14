@@ -1,0 +1,16 @@
+internal/mcp/facade_change_detect_source_test.go
+  h_12c251fe27a2ce 1-80
+internal/mcp/facade_tools.go
+  h_12c251fe27a2ce 1402-1427
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "dc0ae8e7b87bf752974c7c01f124318cd8863b51",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

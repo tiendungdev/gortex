@@ -1,0 +1,23 @@
+internal/indexer/indexer.go
+  s_3cd9bdf3833e2f::t_348f8fa1c9bde4 6297-6305,6316
+internal/indexer/route_registration_site_test.go
+  s_3cd9bdf3833e2f::t_c478e9454fabf4 1-89
+internal/indexer/residual_batch_hotpaths_test.go
+  s_3cd9bdf3833e2f::t_1c1cf7a884a8eb 117-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "954dfc4fa46b6b7aa1dca016ae9f7fa30eade7e3",
+  "prompts": {},
+  "sessions": {
+    "s_3cd9bdf3833e2f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19098c8a-c394-47d8-9067-c02fa6d07023",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
