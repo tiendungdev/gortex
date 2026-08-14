@@ -1,0 +1,18 @@
+internal/indexer/extract_source.go
+  h_12c251fe27a2ce 4,6,9,12-21,23-33,35-38,41,45-82,84
+internal/mcp/rename_apply.go
+  h_12c251fe27a2ce 40,42-43,56,80,119-123,131,137-139,146-148,155,161-172,178
+internal/mcp/rename_recovery_test.go
+  h_12c251fe27a2ce 8,128-209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5f537db3a93f07badc1503102dea2a3433df7bc3",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

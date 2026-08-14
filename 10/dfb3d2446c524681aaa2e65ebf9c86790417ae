@@ -1,0 +1,21 @@
+internal/mcp/facade_schema_test.go
+  s_4a502e20cd7593::t_2d13ce56c9cb76 7,40-53,55-68
+internal/mcp/facade_tools.go
+  s_4a502e20cd7593::t_e18c65185f5d41 541,959,1388-1433,1443-1444,1448-1449,1453-1454,2618-2619
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "10dfb3d2446c524681aaa2e65ebf9c86790417ae",
+  "prompts": {},
+  "sessions": {
+    "s_4a502e20cd7593": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd55e-6f7d-7842-afbe-5687aaf696bc",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+internal/persistence/sidecar_close_test.go
+  s_3cd9bdf3833e2f::t_489335ceb84e0c 1-74
+.github/workflows/ci.yml
+  s_3cd9bdf3833e2f::t_034c4ce4e6df5b 59-65
+  s_3cd9bdf3833e2f::t_329ae55af972f1 40-41
+internal/persistence/sidecar_sqlite.go
+  s_3cd9bdf3833e2f::t_c6277b68bc42ae 354-359,362-364
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "5ca38c4d00481fb68d45a5292d9e47a46f0a150d",
+  "prompts": {},
+  "sessions": {
+    "s_3cd9bdf3833e2f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19098c8a-c394-47d8-9067-c02fa6d07023",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

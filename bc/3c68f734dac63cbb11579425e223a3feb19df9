@@ -1,0 +1,22 @@
+internal/parser/languages/csharp_arity.go
+  h_12c251fe27a2ce 84-185,194-198,200,205
+internal/parser/languages/csharp_function_shape.go
+  h_12c251fe27a2ce 32-34,37-39,42-43,45,49-53,57,60,72
+internal/parser/languages/csharp_overload_evidence_test.go
+  h_12c251fe27a2ce 133-135,138-140
+internal/parser/languages/csharp_params_shape_test.go
+  h_12c251fe27a2ce 1-63
+internal/resolver/csharp_params_applicability_test.go
+  h_12c251fe27a2ce 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "bc3c68f734dac63cbb11579425e223a3feb19df9",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

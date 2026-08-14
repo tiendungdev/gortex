@@ -1,0 +1,23 @@
+internal/graph/store_sqlite/wal_checkpoint_log_test.go
+  s_3cd9bdf3833e2f::t_717ff037209882 1-92
+internal/graph/store_sqlite/store.go
+  s_3cd9bdf3833e2f::t_b5285832406516 58-62,569-575,587,590-591,593-611
+CONTRIBUTORS.md
+  s_3cd9bdf3833e2f::t_a46358f5ac664e 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "360d924dda8f82e45966fdd210837d7597856067",
+  "prompts": {},
+  "sessions": {
+    "s_3cd9bdf3833e2f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19098c8a-c394-47d8-9067-c02fa6d07023",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}

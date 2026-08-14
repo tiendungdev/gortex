@@ -1,0 +1,19 @@
+internal/mcp/diff_repo_scope_test.go
+  s_fe29cedd2949e4::t_84f8c06a9ddfa2 65-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "9e11785a112f80c5c9fd18713d08c3eceff7de3d",
+  "prompts": {},
+  "sessions": {
+    "s_fe29cedd2949e4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff35d-4349-7f72-adc9-72f960b09a19",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
