@@ -1,0 +1,23 @@
+internal/analysis/communities_label_test.go
+  s_3cd9bdf3833e2f::t_cd0885eb4c6e17 3-49
+internal/analysis/communities.go
+  s_3cd9bdf3833e2f::t_5a5bbb1b89960b 610-615,617
+  s_3cd9bdf3833e2f::t_2fb35f8dca8f30 544
+  s_3cd9bdf3833e2f::t_e391befe411119 570-573
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "0ffad383fcbc5345bdb0c52ee0503ffb3d55ac33",
+  "prompts": {},
+  "sessions": {
+    "s_3cd9bdf3833e2f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19098c8a-c394-47d8-9067-c02fa6d07023",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

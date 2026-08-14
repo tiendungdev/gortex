@@ -1,0 +1,34 @@
+internal/graph/store_sqlite/bundle_cache.go
+  s_3cd9bdf3833e2f::t_dc518cff3a7e55 248-253
+  s_3cd9bdf3833e2f::t_264cc2c1406a99 5
+internal/analysis/incremental_communities.go
+  s_3cd9bdf3833e2f::t_c7c9e1353763a8 227-231
+  s_3cd9bdf3833e2f::t_d0c59750d9db13 5
+internal/graph/store_sqlite/bundle_cache_test.go
+  s_3cd9bdf3833e2f::t_35e9234af3a1f0 6
+  s_3cd9bdf3833e2f::t_c6f5ecfe7bc024 105-119
+internal/mcp/tools_analyze_clusters.go
+  s_3cd9bdf3833e2f::t_3d724fe8ea1dbc 395-398,400,402
+  s_3cd9bdf3833e2f::t_662e01ebbb02e1 6
+internal/analysis/communities.go
+  s_3cd9bdf3833e2f::t_b294e6e834bb16 570-572
+  s_3cd9bdf3833e2f::t_874024c9d3d33a 6
+  s_3cd9bdf3833e2f::t_d00af488ad786d 609-613,615
+  s_3cd9bdf3833e2f::t_e0ad741877803a 544
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "9a7beacf5781aac30d3cf2f413e733e130153ad6",
+  "prompts": {},
+  "sessions": {
+    "s_3cd9bdf3833e2f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19098c8a-c394-47d8-9067-c02fa6d07023",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+internal/graph/store_sqlite/wal_checkpoint_log_test.go
+  s_3cd9bdf3833e2f::t_717ff037209882 1-92
+internal/graph/store_sqlite/store.go
+  s_3cd9bdf3833e2f::t_e47506aa85d857 596
+  s_3cd9bdf3833e2f::t_52bf2f87b894d3 58-62
+  s_3cd9bdf3833e2f::t_5b71b7249bc1ec 569-577,589,592-593,595,613
+  s_3cd9bdf3833e2f::t_7c6acaf6cb879a 597-612
+CONTRIBUTORS.md
+  s_3cd9bdf3833e2f::t_a46358f5ac664e 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "57cc16879f2a48c09e6d7b5b397952dc1200ce41",
+  "prompts": {},
+  "sessions": {
+    "s_3cd9bdf3833e2f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19098c8a-c394-47d8-9067-c02fa6d07023",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

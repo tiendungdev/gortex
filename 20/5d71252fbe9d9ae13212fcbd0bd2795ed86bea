@@ -1,0 +1,18 @@
+internal/mcp/change_contract.go
+  h_12c251fe27a2ce 123-127,129-139,161-189,270-273,275-282,286-323,364,366-372,390-396,600-604,651-658,660-661,716-718,836-839,849
+internal/mcp/change_contract_edit_paths_test.go
+  h_12c251fe27a2ce 1-165
+internal/mcp/change_contract_test.go
+  h_12c251fe27a2ce 72-76,83-87,132-135,191-194,210-211
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "205d71252fbe9d9ae13212fcbd0bd2795ed86bea",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

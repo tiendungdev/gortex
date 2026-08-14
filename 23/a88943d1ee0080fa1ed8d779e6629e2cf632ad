@@ -1,0 +1,27 @@
+internal/indexer/route_registration_site_test.go
+  s_3cd9bdf3833e2f::t_9ac850d75802d9 6,14,92-166
+  s_3cd9bdf3833e2f::t_4d44ad10173737 167-169
+  s_3cd9bdf3833e2f::t_2817b2522b3b7a 170-230
+internal/indexer/indexer.go
+  s_3cd9bdf3833e2f::t_eff02f135a1925 6866-6877,6890
+internal/indexer/contract_import_resolve.go
+  s_3cd9bdf3833e2f::t_09dfb9867a959b 7
+  s_3cd9bdf3833e2f::t_83420816e72eda 71,75-106,112,118-122,124,130-131,140
+  s_3cd9bdf3833e2f::t_a79ad157a7a8cf 24-37,43-44,53-54,123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "23a88943d1ee0080fa1ed8d779e6629e2cf632ad",
+  "prompts": {},
+  "sessions": {
+    "s_3cd9bdf3833e2f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19098c8a-c394-47d8-9067-c02fa6d07023",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
