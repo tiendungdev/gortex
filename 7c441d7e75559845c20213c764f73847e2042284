@@ -1,0 +1,27 @@
+internal/mcp/facade_change_targets_test.go
+  s_fe29cedd2949e4::t_794cd6089c7008 144-145
+internal/mcp/facade_legacy_target_test.go
+  s_fe29cedd2949e4::t_92bea0d59b62bc 206-207
+internal/mcp/facade_schema.go
+  s_fe29cedd2949e4::t_5a264563744d2d 31
+internal/mcp/facade_schema_test.go
+  s_fe29cedd2949e4::t_f6228b92ff594d 12-53,75
+internal/mcp/facade_tools_test.go
+  s_fe29cedd2949e4::t_74320d8820f36c 1051,1053-1054,1094-1095,1135,1137,1200-1201,1297-1299,1305
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7c441d7e75559845c20213c764f73847e2042284",
+  "prompts": {},
+  "sessions": {
+    "s_fe29cedd2949e4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff35d-4349-7f72-adc9-72f960b09a19",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

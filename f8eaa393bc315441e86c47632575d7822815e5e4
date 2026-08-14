@@ -1,0 +1,16 @@
+internal/mcp/read_file_physical_evidence_test.go
+  h_12c251fe27a2ce 8,10,40,42-44,69,94,100-113,136-200
+internal/mcp/tools_fileops.go
+  h_12c251fe27a2ce 1132-1134,1136-1143,1161,1165-1166,1170,1181-1182,1186-1187,1190-1191
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f8eaa393bc315441e86c47632575d7822815e5e4",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
