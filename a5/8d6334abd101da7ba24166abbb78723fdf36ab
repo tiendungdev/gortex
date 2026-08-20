@@ -1,0 +1,16 @@
+internal/indexer/extractor_version.go
+  h_12c251fe27a2ce 35
+internal/indexer/extractor_version_test.go
+  h_12c251fe27a2ce 59-68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "a58d6334abd101da7ba24166abbb78723fdf36ab",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

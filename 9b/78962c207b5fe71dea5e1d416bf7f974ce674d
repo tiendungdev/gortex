@@ -1,0 +1,16 @@
+internal/parser/languages/cpp.go
+  h_12c251fe27a2ce 91-94,96,195-206,696-714
+internal/parser/languages/cpp_generic_call_test.go
+  h_12c251fe27a2ce 40-45,56-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "9b78962c207b5fe71dea5e1d416bf7f974ce674d",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

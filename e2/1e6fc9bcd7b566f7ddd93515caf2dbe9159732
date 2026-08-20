@@ -1,0 +1,25 @@
+internal/mcp/batch_transaction.go
+  s_fe29cedd2949e4::t_3ed81b533a6928 9,25-34,38-46,53-56,174,189,218-261,298-319,349-356,360-362,364-382,384-390,392-395,496-499,505-510,512-544,546-548,589,592-594,633,639-641,657-664,688-690,942
+internal/mcp/batch_file_lifecycle_recovery_test.go
+  s_fe29cedd2949e4::t_3ed81b533a6928 1-58
+internal/mcp/batch_transaction_journal.go
+  s_fe29cedd2949e4::t_3ed81b533a6928 163-168,170,172-186,216-229,238-239,241,246,259-264
+internal/mcp/server.go
+  s_fe29cedd2949e4::t_5a1dd000a9bfd2 369-372,375
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e21e6fc9bcd7b566f7ddd93515caf2dbe9159732",
+  "prompts": {},
+  "sessions": {
+    "s_fe29cedd2949e4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff35d-4349-7f72-adc9-72f960b09a19",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}

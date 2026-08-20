@@ -1,0 +1,172 @@
+SECURITY.md
+  h_12c251fe27a2ce 60
+cmd/gortex/daemon.go
+  h_12c251fe27a2ce 70-72,1320-1331,1354-1405
+cmd/gortex/daemon_controller.go
+  h_12c251fe27a2ce 1241-1242,1256
+cmd/gortex/daemon_mcp.go
+  h_12c251fe27a2ce 159-164
+cmd/gortex/daemon_status_render_test.go
+  h_12c251fe27a2ce 7,177-244
+cmd/gortex/ensure_daemon.go
+  h_12c251fe27a2ce 50-51,67-68
+cmd/gortex/init_global.go
+  h_12c251fe27a2ce 46-49
+cmd/gortex/init_global_test.go
+  h_12c251fe27a2ce 1-29
+cmd/gortex/main.go
+  h_12c251fe27a2ce 12
+cmd/gortex/mcp.go
+  h_12c251fe27a2ce 16,76,87-90,92-94,96,214-230,234-241,246-249,258-290,309
+cmd/gortex/mcp_index_test.go
+  h_12c251fe27a2ce 16-20,134-137
+cmd/gortex/mcp_legacy_flags_test.go
+  h_12c251fe27a2ce 61-64,88,94
+cmd/gortex/mcp_nodaemon_inert_test.go
+  h_12c251fe27a2ce 6-8
+cmd/gortex/mcp_test.go
+  h_12c251fe27a2ce 4-5,12,15,17,147-280
+cmd/gortex/proxy.go
+  h_12c251fe27a2ce 91-92,114,116,183,188-190,195-197,202,211
+cmd/gortex/proxy_dial_test.go
+  h_12c251fe27a2ce 114,116,118,124-128
+cmd/gortex/testdata/agent-render/claude-code.txt
+  h_12c251fe27a2ce 33,38-39
+docs/agents.md
+  h_12c251fe27a2ce 12-14,25,198-203
+docs/architecture.md
+  h_12c251fe27a2ce 56
+docs/cli.md
+  h_12c251fe27a2ce 8,90-91,93-95
+docs/features.md
+  h_12c251fe27a2ce 120
+docs/lsp.md
+  h_12c251fe27a2ce 153-157
+docs/mcp-facade-v1.md
+  h_12c251fe27a2ce 210
+docs/mcp.md
+  h_12c251fe27a2ce 5,30-44,270
+docs/multi-repo.md
+  h_12c251fe27a2ce 31,42-44,69-70
+docs/onboarding.md
+  h_12c251fe27a2ce 42,86,88,90-92,95,98,101,243-244,255
+docs/server.md
+  h_12c251fe27a2ce 21-22
+docs/skills.md
+  h_12c251fe27a2ce 18,63
+internal/agents/claudecode/adapter.go
+  h_12c251fe27a2ce 80-82,88-91,160-172,175,181-188,567-619
+internal/agents/claudecode/adapter_test.go
+  h_12c251fe27a2ce 57-58,84,120-125,127-131
+internal/agents/claudecode/community_routing_test.go
+  h_12c251fe27a2ce 1-131
+internal/agents/mcp.go
+  h_12c251fe27a2ce 290-291,311-312
+internal/config/global.go
+  h_12c251fe27a2ce 92-96,112-121,184
+internal/config/global_mcp_test.go
+  h_12c251fe27a2ce 1-51
+internal/daemon/client.go
+  h_12c251fe27a2ce 84,207-208,228-232,265-291,296,301
+internal/daemon/client_test.go
+  h_12c251fe27a2ce 6-7,31-48
+internal/daemon/proto.go
+  h_12c251fe27a2ce 380-388,403-407
+internal/daemon/stop_intent.go
+  h_12c251fe27a2ce 20-22
+internal/graph/edge.go
+  h_12c251fe27a2ce 1169-1178
+internal/hooks/explicit_file_policy_test.go
+  h_12c251fe27a2ce 10
+internal/hooks/sessionstart.go
+  h_12c251fe27a2ce 421
+internal/hooks/sessionstart_test.go
+  h_12c251fe27a2ce 31
+internal/indexer/extractor_version.go
+  h_12c251fe27a2ce 35,37
+internal/mcp/batch_edit_validation_test.go
+  h_12c251fe27a2ce 1-146
+internal/mcp/batch_transaction.go
+  h_12c251fe27a2ce 209,241-242,768
+internal/mcp/explicit_file_policy_test.go
+  h_12c251fe27a2ce 9
+internal/mcp/facade_change_targets_test.go
+  h_12c251fe27a2ce 144-145
+internal/mcp/facade_container_validation_test.go
+  h_12c251fe27a2ce 14-19,21-25,63-65
+internal/mcp/facade_legacy_target_test.go
+  h_12c251fe27a2ce 206-207
+internal/mcp/facade_schema.go
+  h_12c251fe27a2ce 31,133-138
+internal/mcp/facade_schema_test.go
+  h_12c251fe27a2ce 7,13-70,92
+internal/mcp/facade_tools.go
+  h_12c251fe27a2ce 121-128,184-193,437-438,445,466,469,504-505,511,570-582,584,591,600,602,605,640-642,1410-1454,1462-1480,2538,2717-2718,2913
+internal/mcp/facade_tools_test.go
+  h_12c251fe27a2ce 126,129-141,145,542,546,1057,1059-1065,1067-1068,1108-1109,1149,1151,1214-1215,1311-1313,1319,1481-1485
+internal/mcp/localization_terminal.go
+  h_12c251fe27a2ce 1349-1351
+internal/mcp/localization_terminal_test.go
+  h_12c251fe27a2ce 88-98,104,640-762
+internal/mcp/promote_call_gate_test.go
+  h_12c251fe27a2ce 1-123
+internal/mcp/server.go
+  h_12c251fe27a2ce 1306
+internal/mcp/session_ctx.go
+  h_12c251fe27a2ce 81-118
+internal/mcp/tools_enhancements.go
+  h_12c251fe27a2ce 3689-3691,3705-3707,3709,3760,3766,3772-3843,3846-3847,3862-3864,3867-3883,3887-3901
+internal/mcp/tools_mode.go
+  h_12c251fe27a2ce 42-53
+internal/parser/languages/cpp.go
+  h_12c251fe27a2ce 39-44,47,52,58,63,97-100,102,165,201-212,279,283-285,308,438,516-518,536-541,672-673
+internal/parser/languages/cpp_generic_call_test.go
+  h_12c251fe27a2ce 40-45,56-67
+internal/parser/languages/cpp_out_of_line.go
+  h_12c251fe27a2ce 1-188
+internal/parser/languages/cpp_out_of_line_test.go
+  h_12c251fe27a2ce 1-239
+internal/parser/languages/csharp.go
+  h_12c251fe27a2ce 673-681
+internal/parser/languages/golang.go
+  h_12c251fe27a2ce 68,73-74,83,88-89,246-252,489-517,1037,1055,1105,3035-3052
+internal/profiles/bodies.go
+  h_12c251fe27a2ce 42,51,68
+internal/profiles/explicit_file_policy_test.go
+  h_12c251fe27a2ce 14
+internal/resolver/csharp_applicability.go
+  h_12c251fe27a2ce 4-5,147-155,161-163
+internal/resolver/csharp_static_form_qualified_test.go
+  h_12c251fe27a2ce 1-51
+internal/resolver/go_generic_call_ambiguity_test.go
+  h_12c251fe27a2ce 89-139
+internal/resolver/repo_language_lookup.go
+  h_12c251fe27a2ce 305,309-353
+internal/search/rerank/tokens.go
+  h_12c251fe27a2ce 6,49-51
+internal/search/rerank/tokens_test.go
+  h_12c251fe27a2ce 1-33
+internal/semantic/lsp/resolver_helper.go
+  h_12c251fe27a2ce 25-55,59-62,71-82,85-86,105-110,196-215,218-219,221-223,233-238,240,296-299,352-399,424-425,443-444,568-577,580,585-587
+internal/semantic/lsp/resolver_helper_test.go
+  h_12c251fe27a2ce 1-272
+internal/semantic/lsp/resolver_registry_test.go
+  h_12c251fe27a2ce 135-141,158
+internal/semantic/lsp/router.go
+  h_12c251fe27a2ce 888-895,908
+internal/semantic/lsp/router_test.go
+  h_12c251fe27a2ce 569-611
+internal/skills/generator.go
+  h_12c251fe27a2ce 91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "6bc147ec246de130afcfa387a340f164e7084562",
+  "prompts": {},
+  "humans": {
+    "h_12c251fe27a2ce": {
+      "author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
