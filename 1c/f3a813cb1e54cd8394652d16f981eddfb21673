@@ -1,0 +1,25 @@
+internal/analysis/connectivity.go
+  s_31b7067202333b::t_d7ed001a049504 16-22
+  s_31b7067202333b::t_b9b7a097f050f2 104-108
+internal/analysis/connectivity_test.go
+  s_31b7067202333b::t_128232f8935c10 251-291
+  s_31b7067202333b::t_319c4ff47985ae 5
+internal/mcp/tools_analyze_connectivity.go
+  s_31b7067202333b::t_dc0f6d52daa644 10-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "1cf3a813cb1e54cd8394652d16f981eddfb21673",
+  "prompts": {},
+  "sessions": {
+    "s_31b7067202333b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5acae53c-a2a9-4450-9808-9609517541de",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
