@@ -1,0 +1,21 @@
+internal/analysis/diffmap.go
+  s_31b7067202333b::t_b883dbf6a44cf2 104-110,112-125,128-145,177,202
+internal/review/report.go
+  s_31b7067202333b::t_4e95eeaedb65ee 118-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "a7ca67b099131dc8c0d1989e08ae5efaed91999d",
+  "prompts": {},
+  "sessions": {
+    "s_31b7067202333b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5acae53c-a2a9-4450-9808-9609517541de",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
