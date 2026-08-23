@@ -1,0 +1,21 @@
+internal/mcp/tools_conflicts_test.go
+  s_3cd9bdf3833e2f::t_b0b5e74d3e3551 6,130-132,135-140,267-271
+internal/mcp/tools_suggest_reviewers_test.go
+  s_3cd9bdf3833e2f::t_38dd7ede7c254a 284-288
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "49b7e5ecd06668380740b11ab5f47c011d01e726",
+  "prompts": {},
+  "sessions": {
+    "s_3cd9bdf3833e2f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19098c8a-c394-47d8-9067-c02fa6d07023",
+        "model": "unknown"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
