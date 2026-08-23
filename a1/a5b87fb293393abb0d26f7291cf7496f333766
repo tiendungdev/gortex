@@ -1,0 +1,19 @@
+internal/mcp/tools_suggest_reviewers_test.go
+  s_3cd9bdf3833e2f::t_44f2f22321105c 7,263-348
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "a1a5b87fb293393abb0d26f7291cf7496f333766",
+  "prompts": {},
+  "sessions": {
+    "s_3cd9bdf3833e2f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19098c8a-c394-47d8-9067-c02fa6d07023",
+        "model": "unknown"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
