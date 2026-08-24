@@ -1,0 +1,25 @@
+internal/mcp/fidelity_globs.go
+  s_31b7067202333b::t_ac1b27f7f35bb3 14
+  s_31b7067202333b::t_43f011f3820b3f 142-149
+  s_31b7067202333b::t_c0da3785041c43 93-97
+internal/mcp/fidelity_globs_test.go
+  s_31b7067202333b::t_848c1fff181443 55-60,70-99
+.github/workflows/ci.yml
+  s_31b7067202333b::t_a881a0b998cbd3 117-123,127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "5302c872bad3ce89eaaf3e08665b636011ed8e68",
+  "prompts": {},
+  "sessions": {
+    "s_31b7067202333b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5acae53c-a2a9-4450-9808-9609517541de",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
