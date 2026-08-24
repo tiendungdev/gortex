@@ -1,0 +1,28 @@
+internal/agents/render.go
+  s_31b7067202333b::t_84a9616e47e5a8 362-379,381
+.gitattributes
+  s_31b7067202333b::t_6c65c841425b3f 1-21
+internal/agents/instructions.go
+  s_31b7067202333b::t_67b791c92100df 66-72
+internal/agents/instructions_test.go
+  s_31b7067202333b::t_fbc8627688836b 85-89
+  s_31b7067202333b::t_f7079b69f007d0 4
+internal/agents/claudecode/install_diet_test.go
+  s_31b7067202333b::t_273fe642d5e1e7 136-139,141-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "a789a0109e85737159e0bb3ca614b1b792947021",
+  "prompts": {},
+  "sessions": {
+    "s_31b7067202333b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5acae53c-a2a9-4450-9808-9609517541de",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
