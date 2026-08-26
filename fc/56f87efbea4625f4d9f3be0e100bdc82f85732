@@ -1,0 +1,22 @@
+internal/agents/embedded_asset_eol_test.go
+  s_31b7067202333b::t_eb4d25d89e00ae 58-59
+  s_31b7067202333b::t_03c4425ec40785 1-57,60-74
+.github/workflows/ci.yml
+  s_31b7067202333b::t_21dc06bbb80962 56-61,63-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "fc56f87efbea4625f4d9f3be0e100bdc82f85732",
+  "prompts": {},
+  "sessions": {
+    "s_31b7067202333b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5acae53c-a2a9-4450-9808-9609517541de",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
