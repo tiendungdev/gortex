@@ -1,0 +1,22 @@
+internal/agents/render_test.go
+  s_31b7067202333b::t_c448104216eaae 264-274,278-279,289-297
+internal/agents/embedded_asset_eol_test.go
+  s_31b7067202333b::t_090ceb2e1a33c3 36,38-42,45-52,65-67,80-84,87-141,147-161
+  s_31b7067202333b::t_be15f74d843055 162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "91bef013f2886f5b1cb0c00f37f6c4df9e736a53",
+  "prompts": {},
+  "sessions": {
+    "s_31b7067202333b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5acae53c-a2a9-4450-9808-9609517541de",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
