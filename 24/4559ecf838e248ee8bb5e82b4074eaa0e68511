@@ -1,0 +1,26 @@
+internal/mcp/fidelity_globs_test.go
+  s_31b7067202333b::t_67205c33ae198f 220,222,224-240,242-243
+  s_31b7067202333b::t_db8d66bbf9e5e4 217-219,221,223,245-255,263,273-311
+  s_31b7067202333b::t_e9d20e4fb7790c 244
+  s_31b7067202333b::t_cc0e58aaad205b 312
+internal/mcp/fidelity_globs.go
+  s_31b7067202333b::t_31d6c9f9aab57b 184-195
+  s_31b7067202333b::t_4a05a455bdeaf2 171
+  s_31b7067202333b::t_58b6d687fa6f0e 154-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "244559ecf838e248ee8bb5e82b4074eaa0e68511",
+  "prompts": {},
+  "sessions": {
+    "s_31b7067202333b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5acae53c-a2a9-4450-9808-9609517541de",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
