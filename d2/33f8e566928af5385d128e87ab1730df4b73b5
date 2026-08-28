@@ -1,0 +1,19 @@
+internal/mcp/tools_find_files_test.go
+  s_31b7067202333b::t_54d1f5a227e02c 288-289,291-294,296,298-300,303-307,309-311
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "d233f8e566928af5385d128e87ab1730df4b73b5",
+  "prompts": {},
+  "sessions": {
+    "s_31b7067202333b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5acae53c-a2a9-4450-9808-9609517541de",
+        "model": "unknown"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
