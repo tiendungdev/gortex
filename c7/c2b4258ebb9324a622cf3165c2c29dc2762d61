@@ -1,0 +1,41 @@
+internal/mcp/tools_find_files.go
+  s_31b7067202333b::t_d23641715eac78 66-73,76
+internal/mcp/fidelity_globs.go
+  s_31b7067202333b::t_103b5ae507c30f 122,226-236
+  s_31b7067202333b::t_234f1b5be0db00 203-204
+  s_31b7067202333b::t_4061fe47d3f8f8 25-33,35-50,53-58,75,78-90,92
+  s_31b7067202333b::t_4121d538c8519e 21,123,140-182
+  s_b85874f0dc43fe::t_8f78eee45441ca 4,15,121
+internal/mcp/fidelity_globs_test.go
+  s_b85874f0dc43fe::t_4c8405b399a82d 9,17-18,28-34,108-109,309-310,353-354,434-441,443-468,510-574
+internal/mcp/tools_coding.go
+  s_b85874f0dc43fe::t_09efaa3e278400 350-360,576
+internal/mcp/tools_fileops.go
+  s_b85874f0dc43fe::t_5e488cedca9814 1329-1339,1430
+internal/mcp/tools_find_files_test.go
+  s_b85874f0dc43fe::t_50ac4a83c82b68 7,250-254,258-267,270-303
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "c7c2b4258ebb9324a622cf3165c2c29dc2762d61",
+  "prompts": {},
+  "sessions": {
+    "s_31b7067202333b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5acae53c-a2a9-4450-9808-9609517541de",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    },
+    "s_b85874f0dc43fe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c6b342ed-46c3-4055-ba9c-efabaff9eb93",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
