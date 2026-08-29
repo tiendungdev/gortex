@@ -1,0 +1,23 @@
+internal/mcp/edit_serialization.go
+  s_3ae073aacc6496::t_de520135c1f0e1 175,185-202,204,207,210-216,218
+internal/mcp/mutation_freshness_test.go
+  s_3ae073aacc6496::t_dd94b4b24d1ee7 126,130-132,134-139,141-142,144-145
+  s_3ae073aacc6496::t_afa8503b7dcfa3 186-191,198-220
+  s_3ae073aacc6496::t_1406d4267b4acd 221-222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "027959d6975d7aa0d80bbdd384b2299daafb4c3a",
+  "prompts": {},
+  "sessions": {
+    "s_3ae073aacc6496": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5b9e9d71-abc6-4598-a701-e2c85c20f332",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
