@@ -1,0 +1,24 @@
+internal/mcp/edit_serialization.go
+  s_3ae073aacc6496::t_1a0311c6ca6610 346,353,358
+  s_3ae073aacc6496::t_6d2d582ea601d1 388-392
+  s_3ae073aacc6496::t_556eef813b0e06 174-176,185-209
+  s_3ae073aacc6496::t_384f296446cc6e 210-211
+internal/mcp/mutation_freshness_test.go
+  s_3ae073aacc6496::t_14624126cbdc02 107-188
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "adca4ca21d7a7f024a1c8b164e38915f1a88da5b",
+  "prompts": {},
+  "sessions": {
+    "s_3ae073aacc6496": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5b9e9d71-abc6-4598-a701-e2c85c20f332",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
