@@ -1,0 +1,26 @@
+internal/mcp/tools_analyze_ownership_data_state_test.go
+  s_3ae073aacc6496::t_9b58e4a9d36998 1-91,97,108-217
+  s_3ae073aacc6496::t_6037b983304f00 92-96,98-107
+internal/mcp/data_state.go
+  s_3ae073aacc6496::t_c66aa7ba32db99 1-177
+internal/mcp/analyze_kinds.go
+  s_3ae073aacc6496::t_f46ecfc22e5bbc 273
+internal/mcp/tools_enhancements.go
+  s_3ae073aacc6496::t_0fdb237559ece2 1409-1416,1421,1426,1471-1485,1494-1496,1499,1502-1506
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "a03e72c460e1e5a42532ed03a7d16031176a9713",
+  "prompts": {},
+  "sessions": {
+    "s_3ae073aacc6496": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5b9e9d71-abc6-4598-a701-e2c85c20f332",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
