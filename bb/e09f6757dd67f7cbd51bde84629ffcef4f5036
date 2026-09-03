@@ -1,0 +1,23 @@
+internal/mcp/mutation_commit.go
+  s_8ef5b0ffe4cd23::t_c665327dfc7d4c 109-114,131-146,153-162,184,195,221,455-458
+internal/mcp/mutation_commit_test.go
+  s_8ef5b0ffe4cd23::t_f84b015bd05bcc 478-532,535-544,546-549,552,555,558,567-569
+internal/mcp/tools_mutation_status.go
+  s_8ef5b0ffe4cd23::t_fe90aeb7a25894 64-67,69,71,113-114,122-138,144-147,176-218
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "bbe09f6757dd67f7cbd51bde84629ffcef4f5036",
+  "prompts": {},
+  "sessions": {
+    "s_8ef5b0ffe4cd23": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_8ef5b0ffe4cd23",
+        "model": "unknown"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
