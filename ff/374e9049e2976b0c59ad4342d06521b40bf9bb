@@ -1,0 +1,23 @@
+internal/mcp/edit_serialization.go
+  s_58c197db189500::t_62a677a16742f7 234-264,271-273
+internal/mcp/mutation_freshness_test.go
+  s_58c197db189500::t_99769f4f8a0773 236-239,242,298-313,328-399
+internal/mcp/tools_core.go
+  s_58c197db189500::t_1cc89769239772 1531-1538,1565-1566,1587-1588,1608,1636-1653,1663-1670,1675-1676,1679-1691
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "ff374e9049e2976b0c59ad4342d06521b40bf9bb",
+  "prompts": {},
+  "sessions": {
+    "s_58c197db189500": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_58c197db189500",
+        "model": "unknown"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
