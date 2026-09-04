@@ -1,0 +1,23 @@
+internal/mcp/tools_search_text_truncation_test.go
+  s_3ae073aacc6496::t_b9d7af462ab22a 1-168
+internal/mcp/tools_analysis.go
+  s_3ae073aacc6496::t_a056bf59ea6de6 70
+internal/mcp/tools_search_text.go
+  s_3ae073aacc6496::t_7756c5f0ef4b75 5,7,54-60,111-117,142-155,165-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "93a2a031f6f086c07a6bca722413e7ac0cefdd4f",
+  "prompts": {},
+  "sessions": {
+    "s_3ae073aacc6496": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5b9e9d71-abc6-4598-a701-e2c85c20f332",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
