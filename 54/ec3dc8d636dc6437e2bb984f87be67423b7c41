@@ -1,0 +1,35 @@
+internal/blame/repo_scope_test.go
+  s_3ae073aacc6496::t_b3dfe2e3d98ffa 1-141
+  s_3ae073aacc6496::t_b9b871c3b2c363 142-144
+  s_3ae073aacc6496::t_9eca283f68c9a2 145-153
+internal/mcp/tools_analyze_ownership_coverage_test.go
+  s_3ae073aacc6496::t_db880cf5f9fc33 94
+cmd/gortex/daemon_controller.go
+  s_3ae073aacc6496::t_631330681b3577 369
+internal/blame/blame.go
+  s_3ae073aacc6496::t_bb8dda293be446 211-225,241-243
+internal/blame/blame_test.go
+  s_3ae073aacc6496::t_5f0c0cfe642f28 152,219,293,373
+internal/mcp/data_state.go
+  s_3ae073aacc6496::t_3fdfa8db3e9912 39-45,47-52,54-58,74,125,149-155,181-184,191,196-199,201,207,210-213,221,223,225,227,231,233
+internal/mcp/tools_analyze_ownership_data_state_test.go
+  s_3ae073aacc6496::t_3fafc37c984f92 68-69,137-138,155-156,184,188-191,196-200,203,218,229,231,240-300
+internal/mcp/tools_enhancements.go
+  s_3ae073aacc6496::t_d6803663314a1b 1489-1490,2374-2376
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "54ec3dc8d636dc6437e2bb984f87be67423b7c41",
+  "prompts": {},
+  "sessions": {
+    "s_3ae073aacc6496": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5b9e9d71-abc6-4598-a701-e2c85c20f332",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
