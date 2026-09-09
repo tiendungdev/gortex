@@ -1,0 +1,22 @@
+internal/indexer/checkout_mutation.go
+  s_c2bd8596117e1a::t_3b2d5d4c13742c 96,105,165,167-170
+internal/indexer/checkout_mutation_contention_test.go
+  s_c2bd8596117e1a::t_94672927d9455b 1-20,24-27,33,38-42,46-49,53-55,59,63,77-78
+  s_c2bd8596117e1a::t_d39b400d644843 21-23,28-32,34-37,43-45,50-52,56-58,60-62,64-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "7447f3ac56c08fc5ed3e8b530572b4b37e7fc5b1",
+  "prompts": {},
+  "sessions": {
+    "s_c2bd8596117e1a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a083dc-7d1a-77f0-b884-681fc6cc71c9",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
