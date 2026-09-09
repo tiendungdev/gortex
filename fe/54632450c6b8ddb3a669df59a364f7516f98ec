@@ -1,0 +1,23 @@
+internal/mcp/view_metrics_test.go
+  s_c2bd8596117e1a::t_79537500ca3974 56-58,64-65,68,71-72,77-78
+internal/mcp/view_request_test.go
+  s_c2bd8596117e1a::t_79537500ca3974 560,569-571
+internal/mcp/worktree_source_mutation_test.go
+  s_c2bd8596117e1a::t_79537500ca3974 266,277-278
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "fe54632450c6b8ddb3a669df59a364f7516f98ec",
+  "prompts": {},
+  "sessions": {
+    "s_c2bd8596117e1a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a083dc-7d1a-77f0-b884-681fc6cc71c9",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
