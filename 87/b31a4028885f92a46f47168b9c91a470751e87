@@ -1,0 +1,34 @@
+internal/mcp/worktree_agent_lifecycle_test.go
+  s_c2bd8596117e1a::t_0bc050a4c03a91 201-202
+  s_c2bd8596117e1a::t_005373a3e03230 178,199
+  s_c2bd8596117e1a::t_33ca18a7889de6 190
+internal/mcp/view_request.go
+  s_c2bd8596117e1a::t_0849e4fbf997cc 551,729-731
+internal/indexer/checkout_refresh_test.go
+  s_c2bd8596117e1a::t_53e31df3c87781 403,410-411,413,418-419
+internal/indexer/checkout_mutation_contention_test.go
+  s_c2bd8596117e1a::t_acf6dd222552c6 8,11,34-37,39-51,53,55,60-61,63,66-74,95-106
+  s_c2bd8596117e1a::t_cfd19d4c1f7f0f 107
+internal/mcp/checkout_control_test.go
+  s_c2bd8596117e1a::t_4eb51606dd8fcb 403
+  s_c2bd8596117e1a::t_360c6faba5c455 409
+  s_c2bd8596117e1a::t_e1ce02eeb69a43 384,410-415
+internal/indexer/checkout_mutation.go
+  s_c2bd8596117e1a::t_278c2d39ed0140 90,100,162-163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "87b31a4028885f92a46f47168b9c91a470751e87",
+  "prompts": {},
+  "sessions": {
+    "s_c2bd8596117e1a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a083dc-7d1a-77f0-b884-681fc6cc71c9",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
