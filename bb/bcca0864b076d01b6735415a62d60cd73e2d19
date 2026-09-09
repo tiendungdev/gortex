@@ -1,0 +1,24 @@
+internal/indexer/checkout_mutation_contention_test.go
+  s_c2bd8596117e1a::t_acf6dd222552c6 8,11,34-37,39-51,53,55,60-61,63,66-74,95-106
+  s_c2bd8596117e1a::t_cfd19d4c1f7f0f 107
+internal/indexer/checkout_mutation.go
+  s_c2bd8596117e1a::t_278c2d39ed0140 90,100,162-163
+internal/indexer/checkout_refresh_test.go
+  s_c2bd8596117e1a::t_53e31df3c87781 403,410-411,413,418-419
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "bbbcca0864b076d01b6735415a62d60cd73e2d19",
+  "prompts": {},
+  "sessions": {
+    "s_c2bd8596117e1a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a083dc-7d1a-77f0-b884-681fc6cc71c9",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
