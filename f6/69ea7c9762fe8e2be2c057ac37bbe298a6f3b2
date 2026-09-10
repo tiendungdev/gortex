@@ -1,0 +1,19 @@
+internal/indexer/checkout_mutation_contention_test.go
+  s_c2bd8596117e1a::t_75b68f3d89d50d 6-7,88,110-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f669ea7c9762fe8e2be2c057ac37bbe298a6f3b2",
+  "prompts": {},
+  "sessions": {
+    "s_c2bd8596117e1a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a083dc-7d1a-77f0-b884-681fc6cc71c9",
+        "model": "unknown"
+      },
+      "human_author": "Tien Dung Dao <tiendungdev@gmail.com>"
+    }
+  }
+}
